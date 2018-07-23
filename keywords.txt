@@ -5,19 +5,19 @@
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
-PD_Stepper				KEYWORD1
+PD_Stepper	KEYWORD1
 
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-do_steps				KEYWORD2
-get_position			KEYWORD2
+do_steps	KEYWORD2
+get_position	KEYWORD2
 get_position_degrees	KEYWORD2
-step_degrees			KEYWORD2
-goto_position_degrees 	KEYWORD2
-reset_position			KEYWORD2
+step_degrees	KEYWORD2
+goto_position_degrees	KEYWORD2
+reset_position	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
